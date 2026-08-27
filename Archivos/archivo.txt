@@ -2,3 +2,13 @@ Hola, este es un ejemplo de escritura en un archivo.
 Esta es el segundo renglon del archivo.
 Hola, este es un ejemplo de escritura en un archivo.
 Esta es el cuarto renglon del archivo.
+Hola, este es un ejemplo de escritura en un archivo.
+Esta es el cuarto renglon del archivo.
+Hola, este es un ejemplo de escritura en un archivo.
+Esta es el cuarto renglon del archivo.
+Hola, este es un ejemplo de escritura en un archivo.
+Esta es el cuarto renglon del archivo.
+Hola, este es un ejemplo de escritura en un archivo.
+Esta es el cuarto renglon del archivo.
+Hola, este es un ejemplo de escritura en un archivo.
+Esta es el cuarto renglon del archivo.

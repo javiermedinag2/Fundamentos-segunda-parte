@@ -5,8 +5,8 @@ matriz = [[0 for _ in range(columnas)] for _ in range(renglones)]
 acumulador =0
 for renglon in range(renglones):
     for columna in range (columnas):
-        acumulador += 1
-        matriz[renglon][columna]= acumulador
+        #acumulador += 1
+        matriz[renglon][columna]= (renglon+1)*(columna+1)
 
 for renglon in range(renglones):
     info_renglon=""

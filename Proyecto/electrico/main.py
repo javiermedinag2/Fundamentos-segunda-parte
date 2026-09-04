@@ -15,7 +15,7 @@ while continuar.lower() == 's':
     elif opcion == '3':
         resistencia = float(input("Ingrese la resistencia: "))
         voltaje = float(input("Ingrese el voltaje: "))
-        intensidad = funciones.voltaje(resistencia, voltaje)
+        intensidad = funciones.intensidad(resistencia, voltaje)
         print(f"El voltaje es: {intensidad} ")
     else:
         print("Opción no válida.")

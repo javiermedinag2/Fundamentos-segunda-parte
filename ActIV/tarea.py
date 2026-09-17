@@ -47,5 +47,13 @@ try:
     print(f"El número ingresado es: {numero}")
 except ValueError:
     print("Error: Debe ingresar un número válido.")
-    
+#manejo de excepciones con division
+try:
+    numerador = int(input("Ingrese el numerador: "))
+    denominador = int(input("Ingrese el denominador: "))
+    resultado = numerador / denominador
+    print(f"El resultado de la división es: {resultado}")
+except ZeroDivisionError:
+    print("Error: No se puede dividir entre cero.")
+
     
